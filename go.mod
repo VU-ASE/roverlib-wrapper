@@ -1,10 +1,10 @@
 module github.com/VU-ASE/roverlib-wrapper
 
-go 1.21.6
+go 1.22.0
 
 require (
 	github.com/VU-ASE/rovercom v1.0.2
-	github.com/VU-ASE/roverlib v1.0.1
+	github.com/VU-ASE/roverlib v1.0.3
 	github.com/rs/zerolog v1.33.0
 )
 
