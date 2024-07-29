@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.0.0 (2024-07-26)
+
+
+### Bug Fixes
+
+* CI ([f01d2a0](https://github.com/VU-ASE/roverlib-wrapper/commit/f01d2a02efbbd6854852fdf1c665d857fbdd53ad))
+* upgrade to rovercom and roverlib ([013cb9a](https://github.com/VU-ASE/roverlib-wrapper/commit/013cb9a0f6320456d87604a59a7c5f7fe0c76059))
+
 ## 1.0.0 (2024-04-07)
 
 
