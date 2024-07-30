@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.1](https://github.com/VU-ASE/roverlib-wrapper/compare/v1.0.0...v1.0.1) (2024-07-30)
+
+
+### Bug Fixes
+
+* added correct code ([4569f5a](https://github.com/VU-ASE/roverlib-wrapper/commit/4569f5a0ddaa58820013b852fae2ff6597ab7f4d))
+* rename CoreInfo ([3c5cce9](https://github.com/VU-ASE/roverlib-wrapper/commit/3c5cce9360cdeeda0357b8aff190770a6bc25a14))
+
 ## 1.0.0 (2024-07-26)
 
 
