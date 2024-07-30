@@ -1,6 +1,6 @@
 # Service definition
-name: ChangeThisRepoName
-description: template-GoModule
+name: mod-ServiceWrapper
+description: a service to launch another service and get full ServiceRunner support
 
 # No dependencies
 dependencies: []
@@ -9,8 +9,4 @@ dependencies: []
 outputs: []
 
 # Runtime options
-options:
-  - name: example_option
-    type: int     # Can be int, float, string, bool
-    mutable: true # Can be changed at runtime
-    default: 1    # Default value
+options: []
